@@ -113,6 +113,7 @@ WhitelistBot/
 ├── .env              # Environment variables (not in git)
 ├── env.example       # Template for .env
 ├── .gitignore        # Ignored files
+├── LICENSE           # MIT License
 ├── package.json      # Project dependencies
 ├── tsconfig.json     # TypeScript configuration
 └── README.md         # This file
@@ -124,9 +125,9 @@ WhitelistBot/
 
 The `.env` file is already added to `.gitignore` to protect your sensitive data.
 
-## 🤝 License
+## 📄 License
 
-Project created for personal use.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📞 Support
 

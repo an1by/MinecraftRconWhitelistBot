@@ -1,8 +1,11 @@
 {
   "name": "whitelistbot",
+  "version": "1.0.0",
+  "description": "Telegram bot for managing Minecraft server whitelist via RCON",
   "module": "index.ts",
   "type": "module",
   "private": true,
+  "license": "MIT",
   "devDependencies": {
     "@types/bun": "latest"
   },
